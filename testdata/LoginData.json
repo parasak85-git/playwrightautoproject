@@ -1,0 +1,12 @@
+[
+    {
+        "testiteration": "userdata1",
+        "username": "test1@test.com",
+        "password": "password@123"
+    },
+    {
+        "testiteration": "userdata2",
+        "username": "test2@test.com",
+        "password": "password@123"
+    }
+]
