@@ -5,9 +5,9 @@ export default defineConfig({
   testDir: './tests',
   fullyParallel: false,
   //retries: process.env.CI ? 2 : 0,
-  retries: 2,
+  retries: 3,
   //workers: process.env.CI ? 1 : undefined,
-  workers: 2,
+  workers: 3,
 
   reporter: [
     ['html'],
